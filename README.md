@@ -35,3 +35,6 @@ Essentia 主要专注于音频分析和特征提取，但它并不直接提供�
 - 特点：易于使用，适合需要录音功能的应用。
 - 链接：Recorder.js
 这些库各具特色，可以根据具体需求选择合适的音频处理工具。
+## encoder
+- lamejs, mp3 encoder in javascript
+
